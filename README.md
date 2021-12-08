@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jordanyrosario
 - 👀 I’m interested in Software development, Linux and networks
-- 🌱 I’m currently learning DOcker and Mobile development
+- 🌱 I’m currently learning Docker and Mobile development
 - 💞️ I’m looking to collaborate on Web Projects
 - 📫 How to reach me jordanyrosario@gmail.com
 
